@@ -28,7 +28,7 @@
 ## Задание
 #### Вариант 2
 Задание 1. В программу вводятся пользователем значения переменных а и b, вычислить значение выражения F. Составить алгоритм решения задачи в соответствии со своим вариантом на алгоритмическом языке и нарисовать блок-схему.  
-![](C:/Users/Jour/Desktop/Screenshot_1.png)
+![](https://github.com/JourVik/Lab1/blob/main/img-1-lab/1.png)
 На алгоритмическом языке:   
 Алг Задание 1  
 вещ a, b, F  
@@ -38,8 +38,9 @@
  вывод F  
 кон  
 Блок-схема:  
-![](C:/Users/Jour/Desktop/Block1.png)
+![]([C:/Users/Jour/Desktop/Block1.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block1.png))
 Задание 2. В программу вводятся координаты точки Х и Ү (вещественные числа). Определить, принадлежит ли точка C координатами (Х; Ү) заштрихованной части плоскости.  
+![](https://github.com/JourVik/Lab1/blob/main/img-1-lab/2.png)
 На алгоритмическом языке:  
 алг Задание2  
 вещ x, y, z  
@@ -50,11 +51,10 @@
  все  
 вывод z  
 кон  
-Блок-схема:
-
- 
+Блок-схема:  
+![](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block2.png)
 Задание 3. Вычислить сумму S первых n -членов ряда с точностью Е (вводится пользователем). Суммирование членов ряда прекратить, если очередной член ряда у будет меньше Е.  
-![](C:/Users/Jour/Desktop/Screenshot_2.png)
+![]([C:/Users/Jour/Desktop/Screenshot_2.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/3.png))
 На алгоритмическом языке:    
 Алг Задание 3  
 нач   
@@ -72,7 +72,7 @@
  вывод S  
 кон  
 Блок-схема:
-![](C:/Users/Jour/Desktop/Block3.png)
+![]([C:/Users/Jour/Desktop/Block3.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block3.png)https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block3.png)
 
   
  
