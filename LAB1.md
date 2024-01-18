@@ -54,7 +54,7 @@
 Блок-схема:  
 ![](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block2.png)  
 Задание 3. Вычислить сумму S первых n -членов ряда с точностью Е (вводится пользователем). Суммирование членов ряда прекратить, если очередной член ряда у будет меньше Е.  
-![]([C:/Users/Jour/Desktop/Screenshot_2.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/3.png))  
+![](img-1-lab/3.png)  
 На алгоритмическом языке:    
 Алг Задание 3  
 нач   
@@ -72,7 +72,7 @@
  вывод S  
 кон  
 Блок-схема:
-![]([C:/Users/Jour/Desktop/Block3.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block3.png)https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block3.png)
+![](img-1-lab/Block3.png)
 
   
  
