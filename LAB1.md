@@ -38,7 +38,7 @@
  вывод F  
 кон  
 Блок-схема:  
-![]([C:/Users/Jour/Desktop/Block1.png](https://github.com/JourVik/Lab1/blob/main/img-1-lab/Block1.png))  
+![](img-1-lab/Block1.png)  
 Задание 2. В программу вводятся координаты точки Х и Ү (вещественные числа). Определить, принадлежит ли точка C координатами (Х; Ү) заштрихованной части плоскости.  
 ![](https://github.com/JourVik/Lab1/blob/main/img-1-lab/2.png)  
 На алгоритмическом языке:  
